@@ -7,3 +7,8 @@ I am building this because I saw the idea for it on Resolution, and It was somet
 <img width="1135" height="1005" alt="Render" src="https://github.com/user-attachments/assets/56738fcb-1270-40f3-b0d7-e36412fe5375" />
 
 Once this PCB arrives, I want to add a NFC tag on the back that will play the Demon Slayer theme song whenever a phone taps it.
+
+## BOM:
+* PCB
+* Keychain
+* NFC
