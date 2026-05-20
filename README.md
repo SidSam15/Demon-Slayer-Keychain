@@ -12,3 +12,5 @@ Once this PCB arrives, I want to add a NFC tag on the back that will play the De
 * PCB
 * Keychain
 * NFC
+
+<img width="719" height="1102" alt="image" src="https://github.com/user-attachments/assets/cd80d691-4b06-446f-8e24-39437c4119f9" />
