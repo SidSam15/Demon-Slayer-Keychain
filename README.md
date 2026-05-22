@@ -2,9 +2,12 @@
 
 This project is a keychain made from a combination of Demon Slayer symbols then put onto a PCB. It combines popular features from the anime Demon Slayer, such as Hanafuda earrings, Kokushibo's six eyes, the Metsu symbol, and the Demon Corps logo with wisteria flowers.
 
+## WHY
 I am building this because I saw the idea for it on Resolution, and It was something I wanted to try doing because not only would it teach me more about how silkscreens work (I had a lot of unnecessary trouble with silkscreens that could have been avoided if I knew a bit more), but it would also give me a further understanding of how PCBs work internally (i.e the internal layers) and how I can use them to my advantage.
-
+ 
+## HOW
 To use, attach the keychain regularly and stick the NFC sticker on the back, and the PCB will be ready to look amazing!
+When ordering, make sure to set the PCB regular color to BLACK, otherwise the top (where the keychain hole is) will look off.
 
 <img width="1135" height="1005" alt="Render" src="https://github.com/user-attachments/assets/56738fcb-1270-40f3-b0d7-e36412fe5375" />
 
